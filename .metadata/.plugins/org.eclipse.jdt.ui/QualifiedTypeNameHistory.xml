@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<<<<<<< HEAD
 <fullyQualifiedTypeName name="java.util.concurrent.SynchronousQueue"/>
+=======
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+>>>>>>> f1f1006b4ef9d58481be3ffd886a3bf24f3a545c
 </qualifiedTypeNameHistroy>

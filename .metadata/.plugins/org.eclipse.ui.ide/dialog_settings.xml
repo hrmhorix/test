@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+<<<<<<< HEAD
 	<section name="WORKBENCH_SETTINGS">
 		<list key="ENABLED_TRANSFERS">
 		</list>
@@ -8,4 +9,11 @@
 		<item value="327" key="DIALOG_X_ORIGIN"/>
 		<item value="213" key="DIALOG_Y_ORIGIN"/>
 	</section>
+=======
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+>>>>>>> f1f1006b4ef9d58481be3ffd886a3bf24f3a545c
 </section>
